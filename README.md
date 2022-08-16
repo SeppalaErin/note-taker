@@ -19,5 +19,5 @@ The purpose of this application is for users that would like an easy way to crea
 ## Tests
 Users can test the application through Insomnia.
 ## Questions
-* My repositories can be found at https://www.github.com/aseppala98
+* My repositories can be found at https://www.github.com/seppalaerin
 * For any questions regarding this application, you can email me at SeppalaErin98@gmail.com
